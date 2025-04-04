@@ -1,3 +1,31 @@
+# About Me
+
+Hello, I'm Long-hs.
+
+This is my personal blog where I share my technical learning experiences, life insights, and other interesting content.
+
+## Contact
+
+- Email: your-email@example.com
+- GitHub: [Long-hs](https://github.com/Long-hs)
+- Weibo: [your-weibo-username](https://weibo.com/your-weibo-username)
+- Zhihu: [your-zhihu-username](https://www.zhihu.com/people/your-zhihu-username)
+
+## Skills
+
+- Programming Languages: Python, JavaScript, Java, etc.
+- Web Development: HTML, CSS, JavaScript, React, Vue, etc.
+- Other Skills: Git, Linux, Docker, etc.
+
+## Interests
+
+- Programming
+- Reading
+- Photography
+- Traveling
+
+Feel free to connect with me!
+
 Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
 
 I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
