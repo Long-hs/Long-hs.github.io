@@ -1,10 +1,20 @@
-[Hux Blog](https://huangxuan.me)
+[Long-hs Blog](https://long-hs.github.io)
 ================================
 
-> I never expected this to become popular.
+> 基于 [Hux Blog](https://huangxuan.me) 模板的个人博客
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://long-hs.github.io/img/blog-desktop.jpg)
 
+
+
+### 许可证
+
+本项目基于 [Apache License 2.0](LICENSE) 开源。
+
+### 致谢
+
+- 感谢 [Hux](https://huangxuan.me) 提供的优秀博客模板
+- 感谢 [Jekyll](https://jekyllrb.com/) 提供的静态网站生成器
 
 [User Manual 👉](_doc/Manual.md)
 --------------------------------------------------
