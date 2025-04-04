@@ -20,7 +20,7 @@ const PRECACHE_LIST = [
   "./js/hux-blog.min.js",
   "./js/snackbar.js",
   "./img/icon_wechat.png",
-  "./img/avatar-hux.jpg",
+  "./img/avatar-long.jpg",
   "./img/home-bg.jpg",
   "./img/404-bg.jpg",
   "./css/hux-blog.min.css",
@@ -192,7 +192,7 @@ self.addEventListener('fetch', event => {
     // Call respondWith() with whatever we get first.
     // Promise.race() resolves with first one settled (even rejected)
     // If the fetch fails (e.g disconnected), wait for the cache.
-    // If there’s nothing in cache, wait for the fetch.
+    // If there's nothing in cache, wait for the fetch.
     // If neither yields a response, return offline pages.
     event.respondWith(
       Promise.race([fetched.catch(_ => cached), cached])
